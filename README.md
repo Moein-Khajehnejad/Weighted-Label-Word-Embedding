@@ -1,4 +1,4 @@
-# Weighted-Label-Word-Embedding
+# Weighted-Label Word Embedding
 The main goal this work is to investigate new methods to find mathematical options for adding Weights in word embedding models.  
 Word2vec has recently been applied to a wide variety of tasks in Natural Language Processing (NLP) and Text Mining. It creates a normalized vector for each word which can only be labeled positive one or negative one. But in some cases when we want to see the effect of words being weighted like in specificity, we are looking for weighted linear combination of a group of words with real number coefficients that in the word2vec model has not been proposed.   
 # Example
